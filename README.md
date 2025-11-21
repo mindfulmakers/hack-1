@@ -9,6 +9,7 @@ Mindfulness Hack: EEG (Mindful Makers x Neurable)
   - Proactive rather than reactive living (e.g. by filtering of certain daily stimuli/content)
   - Creations that amplify behavioral or biometric self-awareness.
   - Emotional reframing, nostalgia, humor
+  - Gratitude, other practices related to psychology of well-being 
  
 Topics to avoid, at least for today: Ideas related to psychedelics/other drugs. Productivity tools. Generic social media without a spiritual/contemplative purpose or lens. Ideas surrounding topics that are too heavy (e.g. for emergency mental health crises). Tools and products that wouldn't be testable by at least some members of the group.
  
