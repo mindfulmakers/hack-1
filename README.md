@@ -1,5 +1,4 @@
-# hack-1
-Mindfulness Hack: EEG (Mindful Makers x Neurable)
+# Mindfulness Hack: EEG (Mindful Makers x Neurable)
 
 ## Picking an idea
 - The idea of Mindful Makers is that we are building spiritual, mindful, or meditative technology that *we ourselves can try out*.  Themes related to spirituality, mindfulness, meditation, and introspection can include:
