@@ -15,9 +15,6 @@ Topics to avoid, at least for today: Ideas related to psychedelics/other drugs. 
 ### Do we have to use Neurable/EEG?
 You do not have to use Neurable or EEG.  But feel free to see how using your creation affects your brain!
 
-## Picking a team
-- Non-coders should consider forming teams together and learning together.  Help will be available!  Sometimes this avoids situations of one person having nothing to do while others in the group are busy coding.
-
 ## Making a mindfulness product
 
 ### General advice
