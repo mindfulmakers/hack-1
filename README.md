@@ -18,7 +18,21 @@ You do not have to use Neurable or EEG.  But feel free to see how using your cre
 ## Picking a team
 - Non-coders should consider forming teams together and learning together.  Help will be available!  Sometimes this avoids situations of one person having nothing to do while others in the group are busy coding.
 
-## Non-coder toolset and advice
-- Start with Lovable for web-based ideas.
+## Making a mindfulness product
+
+### General advice
+- Divide up work well
+- Don't be too ambitious - build something small that works first
+
+### Non-coder toolset and advice
+- Start with Lovable for web-based ideas. For everything else:
 - Make a Github account
 - Download: Cursor, Github Desktop
+- Ask for help from organizers!
+
+### Using Neurable
+- There are two streams available: full EEG data, and focus/relaxation metrics.
+- See https://github.com/mindfulmakers/neurable-eeg-stream to get started
+
+### Using personal data
+- For projects where you might need WhatsApp, iMessage, Calendar, Location data, you can check out https://github.com/mindfulmakers/personal-data-toolkit
