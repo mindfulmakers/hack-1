@@ -18,3 +18,7 @@ You do not have to use Neurable or EEG.  But feel free to see how using your cre
 ## Picking a team
 - Non-coders should consider forming teams together and learning together.  Help will be available!  Sometimes this avoids situations of one person having nothing to do while others in the group are busy coding.
 
+## Non-coder toolset and advice
+- Start with Lovable for web-based ideas.
+- Make a Github account
+- Download: Cursor, Github Desktop
